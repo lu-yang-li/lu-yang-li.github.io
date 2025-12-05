@@ -23,12 +23,12 @@ repository               : "academicpages/lu-yang-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Luyang Li / 李露阳"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in University of Minnesota"
-  # location         : "Earth"
-  # employer         : "Red Brick University"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "li004000@umn.edu" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0002-8280-2156"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
