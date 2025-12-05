@@ -24,10 +24,10 @@ repository               : "academicpages/lu-yang-li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Luyang Li / 李露阳"
+  name             : "Luyang Li / 李露阳" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in University of Minnesota"
-  location         : # "Earth"
+  location         : "Minneapolis, MN, USA" # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "li004000@umn.edu" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lu-yang-li"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
